@@ -15,3 +15,14 @@
     background-position: 0% 50%;
   }
 }
+
+.icon-square {
+  border-radius: 10px;
+}
+
+.bi {
+  font-size: 2rem;
+}
+.profile-img {
+  height: 100px;
+}
